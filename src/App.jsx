@@ -11,7 +11,7 @@ const App = () => (
     <section className="padding"><Tokenomics /></section>
     <section className="padding"><About /></section>
     <section className=""><Roadmap /></section>
-    <section className="padding"><Chart /></section>
+    {/* <section className="padding"><Chart /></section> */}
 
 
     <section className=""><Footer /></section>
