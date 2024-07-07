@@ -3,7 +3,7 @@ import { about } from "../assets/images";
 
 const About = () => {
   return (
-    <section className="w-full flex flex-col lg:flex-row justify-center items-center min-h-screen gap-10 px-5 pt-0 mt-0 pb-0 mb-0">
+    <section id="about" className="w-full flex flex-col lg:flex-row justify-center items-center min-h-screen gap-10 px-5 pt-0 mt-0 pb-0 mb-0">
       <div className="lg:w-7/12 p-4">
         <h1 className="font-anton text-[50px] mb-4">WHO's $CROC</h1>
         <h2 className="font-anton text-[30px] mb-4">
