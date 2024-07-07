@@ -32,16 +32,16 @@ const Tokenomics = () => {
     <div className="flex flex-col items-center justify-center pt-0 mt-0 mb-0 pb-0">
       <div className="flex flex-col md:grid md:grid-cols-2 gap-4 mb-8">
         <button className="bg-[#8da7ff] text-white rounded-3xl hover:bg-blue-700 font-anton text-[20px] border-4 border-solid border-black py-[30px] px-[150px]">
-          <a href="" target="_blank" className="">PUMP.FUN</a>
+          <a href="https://pump.fun/board" target="_blank" className="">PUMP.FUN</a>
         </button>
         <button className="bg-[#8da7ff] text-white rounded-3xl hover:bg-blue-700 font-anton text-[20px] border-4 border-solid border-black py-[30px] px-[150px]">
-          <a href="" target="_blank" className="">TWITTER</a>
+          <a href="https://x.com/CrocProfessor" target="_blank" className="">TWITTER</a>
         </button>
         <button className="bg-[#8da7ff] text-white rounded-3xl hover:bg-blue-700 font-anton text-[20px] border-4 border-solid border-black py-[30px] px-[150px]">
-          <a href="" target="_blank" className="">TELEGRAM</a>
+          <a href="https://t.me/ProfeessorCROC" target="_blank" className="">TELEGRAM</a>
         </button>
         <button className="bg-[#8da7ff] text-white rounded-3xl hover:bg-blue-700 font-anton text-[20px] border-4 border-solid border-black py-[30px] px-[150px]">
-          <a href="" target="_blank" className="">DEXSCREENER</a>
+          <a href="https://dexscreener.com/" target="_blank" className="">DEXSCREENER</a>
         </button>
       </div>
       <div className="w-full mx-16 mt-32">
