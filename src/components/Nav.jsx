@@ -1,4 +1,3 @@
-import { hamburger } from "../assets/icons";
 import { logoMain } from "../assets/images";
 import { navLinks } from "../constants";
 
